@@ -1,0 +1,42 @@
+/*  #31364C */
+body {
+				margin: 0%;
+				padding: 0%;
+}
+nav{
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				background-color:  #31364C;
+				color: #ffffff;
+}
+ul{
+				display: flex;
+}
+li{
+				list-style: none;
+				margin: 1rem;
+}
+a{
+				text-decoration: none;
+				color: #ffffff;
+}
+.logo {
+				padding: 1rem;
+}
+.card{
+				margin: 100px 130px;
+				width: 700px;
+				background-color: #55ffff;
+				color: white;
+				border: 2px solid whitesmoke;
+				border-radius: 10px;
+				align-items: center;
+				box-shadow: 2px 2px 5px 5px black;
+				padding: 30px;
+}
+img{
+				margin-left: 280px;
+				border: 2px solid bisque;
+				border-radius: 10px;
+}
